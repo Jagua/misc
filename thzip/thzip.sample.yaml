@@ -1,0 +1,23 @@
+# -*- Mode: YAML; Encoding: utf-8 -*-
+#
+# thzip.yaml - config for thzip.pl
+#
+# この設定ファイルを流用する場合は thzip.sample.yaml を thzip.yaml にリネームして使用のこと．
+# あと username はユーザーネームに書き直す，とか．
+#
+th:
+  th06:   
+  th07:   
+  th08:   C:\Users\username\上海アリス幻樂団\東方永夜抄
+  th09:   C:\Users\username\上海アリス幻樂団\東方花映塚
+  th10:   C:\Applications\上海アリス幻樂団\東方風神録
+  th11:   
+  th12:   C:\Applications\上海アリス幻樂団\東方星蓮船
+  th125:  C:\Users\username\AppData\Roaming\ShanghaiAlice\th125
+  th128:  C:\Users\username\AppData\Roaming\ShanghaiAlice\th128
+  th13tr: C:\Users\username\AppData\Roaming\ShanghaiAlice\th13tr
+
+th_append:
+  th_scoreboard:  C:\Users\username\上海アリス幻樂団\scoreboard
+  th_mybest:      C:\Users\username\上海アリス幻樂団\MyBest
+
