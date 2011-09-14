@@ -1,4 +1,4 @@
-#!usr/local/bin/perl
+#!/usr/bin/env perl
 # -*- Mode: Perl; Encoding: CP932 -*-
 
 use strict;
