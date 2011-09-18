@@ -1,0 +1,20 @@
+# -*- Mode: YAML; Encoding: utf-8 -*-
+#
+# thbgm.yaml - for thbgm.rb
+#
+#
+#
+#
+thbgm:
+  #th06:   C:\Users\USERNAME\上海アリス幻樂団\東方紅魔郷\bgm
+  th07:   C:\Users\USERNAME\上海アリス幻樂団\東方妖々夢\thbgm.dat
+  th075:  C:\Users\USERNAME\上海アリス幻樂団\東方萃夢想 \thbgm.dat
+  th08:   C:\Users\USERNAME\上海アリス幻樂団\東方永夜抄\thbgm.dat
+  th09:   C:\Users\USERNAME\上海アリス幻樂団\東方花映塚\thbgm.dat
+  th095:  C:\Users\USERNAME\上海アリス幻樂団\東方文花帖\thbgm.dat
+  th10:   C:\Users\USERNAME\上海アリス幻樂団\東方風神録\thbgm.dat
+  th11:   C:\Users\USERNAME\上海アリス幻樂団\東方地霊殿\thbgm.dat
+  th12:   C:\Users\USERNAME\上海アリス幻樂団\東方星蓮船\thbgm.dat
+  th125:  C:\Users\USERNAME\上海アリス幻樂団\ダブルスポイラー\thbgm.dat
+  th128:  C:\Users\USERNAME\上海アリス幻樂団\妖精大戦争\thbgm.dat
+  th13:   C:\Users\USERNAME\上海アリス幻樂団\東方神霊廟\thbgm.dat
